@@ -1,0 +1,230 @@
+//Sample Output
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 1
+Patient Name : Shravani Thorave.
+Age          : 19
+Disease      : Fever.
+Priority (1=Emergency, 2=Normal, 3=Routine) : 2
+
+Departments:
+  1. Orthopedic
+  2. Dermatology
+  3. Cardiology
+  4. General
+Choose: 4
+
+Patient added!
+ID         : 101
+Name       : Shravani Thorave.
+Department : General
+
+Doctor Info:
+  Dr. Priya Gupta | Room 104 | 9AM-5PM
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 1
+Patient Name : Vaishnavi waghmare.
+Age          : 19
+Disease      : Back Pain.
+Priority (1=Emergency, 2=Normal, 3=Routine) : 3
+
+Departments:
+  1. Orthopedic
+  2. Dermatology
+  3. Cardiology
+  4. General
+Choose: 4
+
+Patient added!
+ID         : 102
+Name       : Vaishnavi waghmare.
+Department : General
+
+Doctor Info:
+  Dr. Priya Gupta | Room 104 | 9AM-5PM
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 2
+
+Departments:
+  1. Orthopedic
+  2. Dermatology
+  3. Cardiology
+  4. General
+Choose: 4
+
+Now serving:
+  ID      : 101
+  Name    : Shravani Thorave.
+  Disease : Fever.
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 3
+
+[Orthopedic]
+  (empty)
+
+[Dermatology]
+  (empty)
+
+[Cardiology]
+  (empty)
+
+[General]
+  1. ID:102   Vaishnavi waghmare.   Age:19   Routine
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 3
+
+[Orthopedic]
+  (empty)
+
+[Dermatology]
+  (empty)
+
+[Cardiology]
+  (empty)
+
+[General]
+  1. ID:102   Vaishnavi waghmare.   Age:19   Routine
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 4
+Enter Patient ID: 102
+
+Found in General department.
+  Name     : Vaishnavi waghmare.
+  Age      : 19
+  Disease  : Back Pain.
+  Priority : 3
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 5
+Enter Patient ID to discharge: 102
+Patient 102 discharged from General.
+
+Press Enter to continue...
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 6
+
+===== Statistics =====
+  Orthopedic      : 0 patient(s)
+  Dermatology     : 0 patient(s)
+  Cardiology      : 0 patient(s)
+  General         : 0 patient(s)
+  ----------------------
+  Total          : 0
+  Slots free     : 200
+
+Press Enter to continue...0
+
+==============================
+   Hospital Management System
+==============================
+ 1. Add Patient
+ 2. Serve Next Patient
+ 3. View All Patients
+ 4. Search by ID
+ 5. Discharge Patient
+ 6. Statistics
+ 0. Exit
+------------------------------
+Choice: 0
+Exiting. Goodbye!
+
+
+=== Code Execution Successful ===
