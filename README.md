@@ -46,7 +46,7 @@ It simulates how patients are managed across different hospital departments in a
 - Menu-driven program design  
 - Basic input validation and data handling
 
-Author****
+**Author**
 Vaishnavi Waghmare
 
 
