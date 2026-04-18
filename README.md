@@ -44,12 +44,11 @@ It simulates how patients are managed across different hospital departments in a
 - Circular Queue implementation using arrays  
 - Use of structures (`struct`) for data organization  
 - Menu-driven program design  
-- Basic input validation and data handling  
+- Basic input validation and data handling
 
+Author****
+Vaishnavi Waghmare
 
-Objective
-
-To demonstrate the use of **queue data structures in a real-world application**, making it easier to understand patient flow management in hospitals.
 
 
  How to Run
