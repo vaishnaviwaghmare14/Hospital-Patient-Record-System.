@@ -12,7 +12,7 @@
  0. Exit
 ------------------------------
 Choice: 1
-Patient Name : Shravani Thorave.
+Patient Name : Vaishnavi Waghmare
 Age          : 19
 Disease      : Fever.
 Priority (1=Emergency, 2=Normal, 3=Routine) : 2
@@ -26,7 +26,7 @@ Choose: 4
 
 Patient added!
 ID         : 101
-Name       : Shravani Thorave.
+Name       : Vaishnavi Waghmare
 Department : General
 
 Doctor Info:
@@ -46,8 +46,8 @@ Press Enter to continue...
  0. Exit
 ------------------------------
 Choice: 1
-Patient Name : Vaishnavi waghmare.
-Age          : 19
+Patient Name : Riya Singh
+Age          : 26
 Disease      : Back Pain.
 Priority (1=Emergency, 2=Normal, 3=Routine) : 3
 
@@ -60,7 +60,7 @@ Choose: 4
 
 Patient added!
 ID         : 102
-Name       : Vaishnavi waghmare.
+Name       : Riya Singh.
 Department : General
 
 Doctor Info:
@@ -90,7 +90,7 @@ Choose: 4
 
 Now serving:
   ID      : 101
-  Name    : Shravani Thorave.
+  Name    : Vaishnavi Waghmare.
   Disease : Fever.
 
 Press Enter to continue...
@@ -118,7 +118,7 @@ Choice: 3
   (empty)
 
 [General]
-  1. ID:102   Vaishnavi waghmare.   Age:19   Routine
+  1. ID:102   Riya Singh.   Age:26   Routine
 
 Press Enter to continue...
 
@@ -145,7 +145,7 @@ Choice: 3
   (empty)
 
 [General]
-  1. ID:102   Vaishnavi waghmare.   Age:19   Routine
+  1. ID:102   Riya Singh.   Age:26   Routine
 
 Press Enter to continue...
 
@@ -164,8 +164,8 @@ Choice: 4
 Enter Patient ID: 102
 
 Found in General department.
-  Name     : Vaishnavi waghmare.
-  Age      : 19
+  Name     : Riya Singh.
+  Age      : 26
   Disease  : Back Pain.
   Priority : 3
 
